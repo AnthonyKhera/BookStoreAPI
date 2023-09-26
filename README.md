@@ -6,7 +6,6 @@
 - [Technologies](#technologies)
 - [Usage](#usage)
 - [Screenshots](#screenshots)
-- [Database Schema](#database-schema)
 
 ## Introduction
 Welcome to the Book Store API, also known as GeekText! This project showcases the creation of a robust REST API with CRUD features designed to manage a book store database. Our primary objectives are to empower administrators to add books and authors to the store and enable users to explore the collection and make book purchases.
