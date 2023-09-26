@@ -87,6 +87,6 @@ Example requests to interact with the Book Store API:
     - **Parameters:** `userId`, `bookCode`
 
 ## Screenshots
-*Insert example screenshots here to visually showcase API.*
+*Coming Soon!*
 
 
