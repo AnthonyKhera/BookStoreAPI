@@ -34,8 +34,6 @@ This project leverages the following technologies:
 
 ## Usage
 
-## Usage
-
 Example requests to interact with the Book Store API:
 
 1. **Get All Books**
