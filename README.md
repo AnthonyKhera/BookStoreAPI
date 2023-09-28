@@ -11,16 +11,14 @@
 Welcome to the Book Store API, also known as GeekText! This project showcases the creation of a robust REST API with CRUD features designed to manage a book store database. Our primary objectives are to empower administrators to add books and authors to the store and enable users to explore the collection and make book purchases.
 
 ## Features
-- **Admin Features:**
-  - Add books to the store.
-  - Manage authors in the database.
-  
-- **User Features:**
-  - Browse and search for books by genre, best sellers, average rating, and authors.
-  - Create and manage user accounts with username, password, email address, credit card info, and shipping address.
-  - Build and maintain a unique cart, displaying book information and the cart's total price.
-  - Write comments and leave ratings for books.
-  - View all comments and the average rating for a selected book.
+This application supports the following features.
+- Add books to the store.
+- Manage authors in the database.
+- Browse and search for books by genre, best sellers, average rating, and authors.
+- Create and manage user accounts with username, password, email address, credit card info, and shipping address.
+- Build and maintain a unique cart, displaying book information and the cart's total price.
+- Write comments and leave ratings for books.
+- View all comments and the average rating for a selected book.
 
 ## Technologies
 This project leverages the following technologies:
