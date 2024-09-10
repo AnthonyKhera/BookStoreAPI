@@ -81,7 +81,4 @@ Example requests to interact with the Book Store API:
     - **Endpoint:** `/bookstore/removeItem`
     - **Parameters:** `userId`, `bookCode`
 
-## Screenshots
-*Coming Soon!*
-
 
